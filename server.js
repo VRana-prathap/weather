@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 10000;
 
 app.use(cors({
-  origin: ['https://vrana-prathap.github.io/']
+  origin: ['https://vrana-prathap.github.io']
 }));
 
 const API_KEY = process.env.OPENWEATHER_API_KEY;
@@ -51,4 +51,5 @@ app.get('/health', (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`Weather proxy running on port ${PORT}`);
+
 });
