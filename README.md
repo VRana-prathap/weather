@@ -1,4 +1,4 @@
-# Weather — Secure, Real-Time Weather Dashboard
+# Weather — Real-Time Weather Dashboard
 
 A beautiful, climate-aware weather application with animated backgrounds, 5-day forecast, and professional glassmorphism UI — **with your API key safely hidden**.
 
