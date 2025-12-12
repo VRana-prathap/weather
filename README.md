@@ -12,7 +12,7 @@ A beautiful, climate-aware weather application with animated backgrounds, 5-day 
 
 ## Live Demo
 
-> **[Click here to view the live demo](https://vrana-prathap.github.io/Expense-tracker/)** 
+> **[Click here to view the live demo](https://vrana-prathap.github.io/weather/)** 
 
 ---
 
